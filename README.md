@@ -12,7 +12,7 @@ I'm a **Fullstack Mobile Developer**, developing **native Android apps** with pr
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
- ![Java](https://badgen.net/badge/Java/:status/black?icon=Java)
+ ![Java](https://badgen.net/badge/icon/Java/green?icon=https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg&label)
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
