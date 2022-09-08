@@ -13,7 +13,7 @@ I'm a **Fullstack Mobile Developer**, developing **native Android apps** with pr
 
 - 💻 &nbsp;
 ![Java](https://badgen.net/badge/icon/Java/green?icon=https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg&label)
-![Kotlin](https://badgen.net/badge/icon/Kotlin/blue?icon=https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg&label)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 - 🌐 &nbsp;
