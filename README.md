@@ -14,9 +14,8 @@ I'm a **Fullstack Mobile Developer**, developing **native Android apps** with pr
 - 💻 &nbsp;
 ![Java](https://badgen.net/badge/icon/Java/green?icon=https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg&label)
 ![Kotlin](https://badgen.net/badge/icon/Kotlin/blue?icon=https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg&label)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
