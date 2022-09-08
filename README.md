@@ -25,8 +25,7 @@ I'm a **Fullstack Mobile Developer**, developing **native Android apps** with pr
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
  - 🛢 &nbsp;
- ![PostgreSQL](https://badgen.net/badge/icon/PostgreSQL/green?icon=https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg&label)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-flat&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-flat&logo=postgresql&logoColor=white)
 
