@@ -36,6 +36,9 @@ I'm a **Fullstack Mobile Developer**, developing **native Android apps** with pr
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-flat&logo=visual-studio-code&logoColor=white)
  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-flat&logo=android-studio&logoColor=white)
+  ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
   
   <br/>
 
