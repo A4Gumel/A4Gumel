@@ -4,8 +4,8 @@ I'm a **Fullstack Mobile Developer**, developing **native Android apps** with pr
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌑 &nbsp; Exploring new technologies and developing efficient software solutions.
-- 💼 &nbsp; Working as a Senior Android Developer at Quick Supply LTD.
+- 🌑 &nbsp; Exploring new technologies and developing efficient and scalable software solutions.
+- 💼 &nbsp; Working as an Android Software Engineer at Quick Supply LTD.
 - 🌱 &nbsp; Exploring and Passionate about Cloud Architecture, ELectronics, Robotics and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
