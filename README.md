@@ -11,10 +11,11 @@ I'm a **Fullstack Mobile Developer**, developing **native Android apps** with pr
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://badgen.net/badge/icon/Java/green?icon=https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg&label)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -30,6 +31,7 @@ I'm a **Fullstack Mobile Developer**, developing **native Android apps** with pr
   - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 - 🔧 &nbsp;
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-flat&logo=visual-studio-code&logoColor=white)
  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -46,6 +48,6 @@ I'm a **Fullstack Mobile Developer**, developing **native Android apps** with pr
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href="https://www.linkedin.com/in/a4gumel/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-A4Gumel?style=flat-square&logo=linkedin"></a>
+[![Linkedin: A4Gumel](https://img.shields.io/badge/-A4Gumel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a4gumel/)](https://www.linkedin.com/in/a4gumel/)
 <a href="mailto:a4auwal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-a4auwal@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
