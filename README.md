@@ -43,7 +43,7 @@ I'm a **Fullstack Mobile Developer**, developing **native Android apps** with pr
   <br/>
 
 <a href="https://github.com/a4gumel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a4gumel&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/ahmadadejumo/github-readme-stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a4gumel&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/a4gumel/github-readme-stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a4gumel&theme=buefy&layout=compact" />
 </a>
 
