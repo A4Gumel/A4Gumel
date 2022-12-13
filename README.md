@@ -1,7 +1,5 @@
 <h2> Hi there 👋 I'm Auwal.</h2>
-
-I'm a **Fullstack Android Developer**, developing **native Android apps** with professional experience developing APIs with Django and specialized in Cloud computing and development. Developed Secured, efficient, and with little-to-no downtime cloud systems. Spent many years analyzing customer needs, designing systems and solutions, coding, debugging, mentoring and managing teams. Over the course of these years I have led and collaborated with many teams to developed, deploy and maintain scalable apps with many active users.
-
+ 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🌑 &nbsp; Exploring new technologies and developing efficient and scalable software solutions.
