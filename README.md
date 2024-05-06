@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🌑 &nbsp; Exploring new technologies and developing efficient and scalable software solutions.
-- 💼 &nbsp; Working as Software Engineer at Quick Supply LTD.
+- 💼 &nbsp; Working as Software Engineer (Mobile).
 - 🌱 &nbsp; Exploring and Passionate about Cloud Architecture, ELectronics, Robotics and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
